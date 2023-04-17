@@ -1,0 +1,16 @@
+{
+  "name": "http-cache-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "etag": "^1.8.1",
+    "nodemon": "^2.0.22"
+  }
+}
